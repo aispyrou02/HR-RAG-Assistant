@@ -37,8 +37,8 @@ hr-rag-assistant/
 │   ├── models.py
 │
 ├── docs/
-│   └── hr_faqs.pdf
-│   └── prompts.txt
+│   ├── hr_faqs.pdf
+│   ├── prompts.txt
 │
 ├── evaluations/
 │   └── eval_dataset.json
