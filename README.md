@@ -226,9 +226,8 @@ The system uses DeepEval:
 
 # 👨‍💻 Author
 
-Agamemnon Spyrou
-AI & Software Engineering Student
-Intern @ Netcompany-Intrasoft
+Agamemnon-Ioannis Spyrou
+
 
 ---
 
