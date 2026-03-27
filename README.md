@@ -30,11 +30,14 @@ This project implements a full pipeline including:
 hr-rag-assistant/
 │
 ├── app/
-│   ├── main.py                  # CLI entry (empl_help_bot.py)
+│   ├── empl_help_bot.py.py                  # CLI entry     (main)
 │   ├── rag_agent_process.py
 │   ├── init_process.py
 │   ├── evaluation_process.py
 │   ├── models.py
+│   ├── API.py
+│   ├── auth.py
+│   ├── db.py
 │
 ├── docs/
 │   ├── hr_faqs.pdf
