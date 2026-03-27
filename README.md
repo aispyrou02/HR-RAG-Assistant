@@ -64,8 +64,6 @@ AZURE_OPENAI_KEY=your_key
 DATABASE_URL=postgresql+psycopg2://user:password@localhost:5432/db_name
 ```
 
-⚠️ Do NOT commit `.env` to GitHub.
-
 ---
 
 ## 🧪 Installation
