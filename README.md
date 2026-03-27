@@ -38,16 +38,13 @@ hr-rag-assistant/
 │
 ├── docs/
 │   └── hr_faqs.pdf
+│   └── prompts.txt
 │
 ├── evaluations/
 │   └── eval_dataset.json
 │
-├── prompts/
-│   └── prompts.txt
-│
 ├── requirements.txt
 ├── README.md
-└── .gitignore
 ```
 
 ---
