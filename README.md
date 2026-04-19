@@ -38,6 +38,7 @@ hr-rag-assistant/
 │   ├── API.py
 │   ├── auth.py
 │   ├── db.py
+|   ├── rag_UI.py
 │
 ├── docs/
 │   ├── hr_faqs.pdf
